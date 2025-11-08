@@ -1,5 +1,5 @@
 # 欢迎来到大树报👋
-
+![Metrics](/github-metrics.svg)
 ## Star History
 
 <a href="https://www.star-history.com/#BigTreeNews/BigTreeNews.github.io&type=date&legend=top-left">
