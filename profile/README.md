@@ -1,4 +1,5 @@
-# 欢迎来到大树报👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Text&size=80&duration=3000&pause=1000&color=0366D6&center=true&multiline=true&width=500&height=150&lines=BIG+TREE+NEWS)](https://git.io/typing-svg)
+
 ![Metrics](/github-metrics.svg)
 ## Star History
 
